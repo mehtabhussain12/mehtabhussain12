@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Mehtab Hussain  
 
 - 👀 I’m interested in UI/UX design, web development, and freelancing.  
-- 🌱 I’m currently learning Next.js, MongoDB, and advanced web development.  
-- 💼 I run a web agency called **MARSH TECH**, helping businesses build stunning websites.  
+- 🌱 I’m currently learning Next.js, MongoDB, and advanced web development.
 - 🤝 I’m looking to collaborate on frontend projects and SaaS ideas.  
 - 📫 Reach me at mehtabmughal688@gmail.com .  
 
