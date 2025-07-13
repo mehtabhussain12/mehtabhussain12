@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mehtab Hussain  
+# 👋 Hi, I’m Mehtab 
 
 - 👀 I’m interested in UI/UX design, web development, and freelancing.  
 - 🌱 I’m currently learning Next.js, MongoDB, and advanced web development.
