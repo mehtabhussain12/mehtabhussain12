@@ -1,56 +1,50 @@
-<div align="center">
+# Hi, I'm Mehtab 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=334CCC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mehtab+%F0%9F%91%8B;Self-taught+Developer+%26+Founder;Building+SaaS+for+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+**Software Developer** from Pakistan. I build custom business software that helps shops, schools and small businesses run their daily work without registers and spreadsheets.
 
-**Founder @ Tabia Technologies** · Instructor · Builder of tools that real schools and shops actually use
-
-[![Website](https://img.shields.io/badge/schoolsahulat.com-334CCC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://schoolsahulat.com)
-[![Email](https://img.shields.io/badge/Email-677CE4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtabmughal688gmail.com)
-
-</div>
+💼 **Open for freelance projects.** Need a system for your business? Let's talk.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ Software I've Built
 
-- 🚀 Founder of **Tabia Technologies** (*tabia* = nature / character) — software for schools,  & shops
-- 🏫 Building software that make school management simple for Pakistani institutions
-- 🧠 Self-taught, AI-assisted builder — shipped full SaaS products.
-- 💬 Ask me about: Firebase, React SaaS, offline-first POS, Urdu/RTL apps, building in Pakistan
+| Software | What it does |
+|---|---|
+| **School Management System** | Students, attendance, fee collection, results, and Hifz tracking for madrasas. Live at [schoolsahulat.com](https://schoolsahulat.com) |
+| **Business Management System / POS** | Sales, inventory, stock alerts, billing and reports for retail shops |
+| **Installment Tracking Software** | Customer installment plans, due dates, payment history and pending balance reports |
+| **Customer Tracking Software** | Customer records, purchase history, follow-ups and dues in one place |
 
----
-
-### 🛠️ What I'm Building
-
-| Product | What it does | Stack |
-|---|---|---|
-| 🎓 **[School Sahulat](https://schoolsahulat.com)** | School  — fees, attendance, results, AI question paper generator, WhatsApp parent alerts, teacher job portal | React · Vite · TypeScript · Firebase |
-| 🛒 **Tabia Technologies** | Retail point-of-sale for Pakistani shops — sales, inventory, reports, WhatsApp sales bot | React · Firebase · Supabase · PowerSync |
-| 📱 **LinkDeck** *(coming soon)* | Control your laptop from your phone | Cross-platform |
+All of these are **real software in use**, not practice projects.
 
 ---
 
-### ⚡ Tech Stack
+## ⚙️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,nextjs,tailwind,firebase,supabase,nodejs,html,css,git,github,vercel,tauri&perline=8" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehtabhussain12&show_icons=true&hide_border=true&bg_color=020817&title_color=677CE4&icon_color=334CCC&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtabhussain12&layout=compact&hide_border=true&bg_color=020817&title_color=677CE4&text_color=ffffff" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehtabhussain12&hide_border=true&background=020817&ring=334CCC&fire=677CE4&currStreakLabel=677CE4&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-<div align="center">
+## 🤝 What I Can Build For You
 
-*Building from Pakistan 🇵🇰, for Pakistan — one school, one shop at a time.*
+- Custom management software for your business (shop, school, clinic, showroom)
+- Installment and credit tracking systems
+- Inventory and POS systems
+- Admin dashboards and reports
+- WhatsApp alerts and notifications
 
-</div>
+---
+
+## 📫 Contact
+
+- 📧 Email: mehtabmughal688@gmail.com
+- 💬 WhatsApp: +92 327 3366851
+- 🌐 Live work: [schoolsahulat.com](https://schoolsahulat.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtabhussain12&show_icons=true&hide_border=true)
