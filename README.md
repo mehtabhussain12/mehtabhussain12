@@ -5,8 +5,6 @@
 **Founder @ Tabia Technologies** · Teacher · Builder of tools that real schools and shops actually use
 
 [![Website](https://img.shields.io/badge/schoolsahulat.com-334CCC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://schoolsahulat.com)
-[![YouTube](https://img.shields.io/badge/Nazar_Band-020817?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@YOUR_CHANNEL)
-
 [![Email](https://img.shields.io/badge/Email-677CE4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtabmughal688gmail.com)
 
 </div>
